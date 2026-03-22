@@ -1,2 +1,0 @@
-print("Eth kahi jatu")
-
