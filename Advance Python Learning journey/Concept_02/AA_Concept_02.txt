@@ -1,0 +1,9 @@
+Goal: Learn decision-making, loops, and reusable code.
+Topics:
+•Conditional statements: if, elif, else, nested conditions
+•Loops: for, while, break, continue, pass, else with loops
+•Functions: defining, returning values, positional/keyword/default arguments, args, *kwargs
+•Lambda functions, higher-order functions (map, filter, reduce)
+•Scope & lifetime: local, global, nonlocal, LEGB rule
+Practice: Number guessing game, multiplication table,
+
