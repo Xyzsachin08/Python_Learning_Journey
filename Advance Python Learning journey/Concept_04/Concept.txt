@@ -1,0 +1,8 @@
+Goal: Work with files, JSON, exceptions, and modular programming
+Topics:
+•File handling: read/write text, CSV, JSON, binary files, context managers (with open)
+•Exceptions: try/except/finally, raising exceptions, custom exceptions
+•Modules & packages: standard libraries (math, random, datetime, os, sys, shutil)
+•Creating custom modules, pip packages
+•JSON: parsing, dumping, converting between JSON & Python dictionaries
+Practice: error-safe calculator
