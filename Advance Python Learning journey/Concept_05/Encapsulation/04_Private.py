@@ -16,3 +16,4 @@ class Canara:
         
 s= Canara()
 s.show_paise()
+#this one is proper encapsulation
